@@ -1,3 +1,17 @@
+/*
+//  WEB 3D
+//
+//
+//
+//
+//
+//
+//
+//
+*/
+
+
+
 import { Canvas } from "@react-three/fiber";
 import { Experience } from "./components/Experience";
 
@@ -10,3 +24,5 @@ function App() {
 }
 
 export default App;
+
+
